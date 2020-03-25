@@ -1,0 +1,10 @@
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\bin\Debug\Regex Tester.exe.config
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\bin\Debug\Regex Tester.exe
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\bin\Debug\Regex Tester.pdb
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex Tester.csprojAssemblyReference.cache
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex_Tester.frmMain.resources
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex_Tester.Properties.Resources.resources
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex Tester.csproj.GenerateResource.cache
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex Tester.csproj.CoreCompileInputs.cache
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex Tester.exe
+C:\Users\RAC\source\repos\Regex Tester\Regex Tester\obj\Debug\Regex Tester.pdb
